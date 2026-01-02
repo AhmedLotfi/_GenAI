@@ -29,3 +29,4 @@ nuget.config
 ## OS
 .DS_Store
 Thumbs.db
+src/.DS_Store
