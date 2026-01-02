@@ -1,8 +1,8 @@
 /.DS_Store
 
 ## .NET Core/Standard/NET5+
-[Bb]in/
-[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
 
 ## Visual Studio
 .vs/
